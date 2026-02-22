@@ -3,7 +3,7 @@
 -->
 # 💫 About Me :
 - 🔭 Flutter/Golang Developer with 7+ years of experience.
-- 🌱 I'm currently building [BarsNLP](https://github.com/barsnlp) — NLP toolkit for Azerbaijani language in Go.
+- 🌱 I'm currently building [NLP](https://github.com/az-ai-labs/az-lang-nlp) — NLP toolkit for Azerbaijani language in Go.
 - 📄 Author of [aion-torch](https://github.com/Rioverde/aion-torch) — PyTorch library for adaptive residual scaling.
 - 💬 Ask me about Flutter, Go or any tech-related stuff.
 - 📫 How to reach me: Check social links below.

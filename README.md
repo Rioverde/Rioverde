@@ -1,12 +1,6 @@
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rioverde&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Rioverde" /> </p>
 -->
-# 💫 About Me :
-- 🔭 Flutter/Golang Developer with 7+ years of experience.
-- 🌱 I'm currently building [NLP](https://github.com/az-ai-labs/az-lang-nlp) — NLP toolkit for Azerbaijani language in Go.
-- 📄 Author of [aion-torch](https://github.com/Rioverde/aion-torch) — PyTorch library for adaptive residual scaling.
-- 💬 Ask me about Flutter, Go or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abbas-babayev-89074118b)
